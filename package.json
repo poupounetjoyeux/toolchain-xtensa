@@ -1,0 +1,17 @@
+{
+  "name": "toolchain-xtensa",
+  "version": "8.4.0",
+  "description": "Espressif ESP8266 SDK based on FreeRTOS",
+  "keywords": [
+    "framework",
+    "sdk",
+    "esp8266",
+    "freertos",
+    "espressif"
+  ],
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/poupounetjoyeux/toolchain-xtensa"
+  }
+}
